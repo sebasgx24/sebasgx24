@@ -1,16 +1,14 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**sebasgx24/sebasgx24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hola tú! Me llamo `Sebastian`.
 
-Here are some ideas to get you started:
+Configurador de Servidores de Minecraft
+ 
+Si necesitas ayuda con tu servidor, contactame por Discord: SebasG_#3750 :mailbox:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+<p align="center">
+  <a href="https://discord.com/users/520724581443567617" target="_blank" rel="nofollow">
+    <img align="center" src="https://lanyard-profile-readme.vercel.app/api/520724581443567617?&animated=true&borderRadius=30px&idleMessage=Nothing..." alt="Discord Presence">
+  </a>
+</p>
