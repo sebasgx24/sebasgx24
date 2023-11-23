@@ -4,7 +4,7 @@
 
 Configurador de Servidores de Minecraft
  
-Si necesitas ayuda con tu servidor, contactame por Discord: SebasG_#3750 :mailbox:
+Si necesitas ayuda con tu servidor, contactame por Discord: @sebasg_ :mailbox:
 
 </p>
 <p align="center">
